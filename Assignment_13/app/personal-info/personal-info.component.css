@@ -1,0 +1,38 @@
+.Form
+{
+    padding : 50px 50% 0px 30%;
+}
+
+.NameRow
+{
+    margin-left: 0px;
+}
+
+.Name
+{
+    width : 300px;
+}
+
+.Last_Name
+{
+    padding-left : 20px;
+}
+
+.firstSmall
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.Rest
+{
+    position: relative;
+    width : 700px;
+    margin : 0px auto 0px auto;
+}
+
+.Rest_Lable
+{
+    padding : 30px 0px 0px 0px; 
+}
+
